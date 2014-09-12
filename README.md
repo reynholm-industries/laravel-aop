@@ -1,2 +1,2 @@
-Laravel AOP
+laravel-aop
 ===========
